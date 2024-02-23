@@ -10,7 +10,7 @@ function Header() {
                     <img width="38" src={logo} alt="Pizza logo" />
                     <div>
                         <h1>RETRO Pizza</h1>
-                        <p>best pizza of the world</p>
+                        <p>best pizza of the world!!!</p>
                     </div>
                 </div>
                 <div className="header__cart">
